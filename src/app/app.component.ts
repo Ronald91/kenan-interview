@@ -6,5 +6,7 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-  title = 'kenan-interview';
+   title = 'kenan-interview';
+
+   test = 'Do I show now?'
 }
